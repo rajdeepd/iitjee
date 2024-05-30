@@ -19,8 +19,6 @@ $$
 \end{aligned}
 $$
 
-
-
 From 2nd equation of motion,
 
 $$
@@ -34,8 +32,8 @@ $$
 
 The correct option is B.
 
-1.  A bus accelerates uniformly from rest and acquires a speed of $36 \mathrm{~km} / \mathrm{h}$ in $10 \mathrm{~s}$. The acceleration is
-2.  
+63. A bus accelerates uniformly from rest and acquires a speed of $36 \mathrm{~km} / \mathrm{h}$ in $10 \mathrm{~s}$. The acceleration is
+ 
 (A) $1 \mathrm{~m} / \mathrm{s}^2$
 (B) $2 \mathrm{~m} / \mathrm{s}^2$
 (C) $1 / 2 \mathrm{~m} / \mathrm{s}^2$
@@ -50,7 +48,7 @@ Time, $\mathrm{t}=10 \mathrm{~s}$
 $\therefore$ acceleration, $\mathrm{a}=\frac{\mathrm{v}-\mathrm{u}}{\mathrm{t}}=\frac{10-\mathrm{o}}{10}=1 \mathrm{~m} / \mathrm{s}^2$
 
 
-64. Speeds of two identical cars are $U$ and $4 U$ at a specific instant. The ratio of the respective distance in which the two cars are stopped from that instant is
+64.  Speeds of two identical cars are $U$ and $4 U$ at a specific instant. The ratio of the respective distance in which the two cars are stopped from that instant is
 (A) $1: 1$
 (B) $1: 4$
 (C) $1: 8$
@@ -60,7 +58,7 @@ Solution.
 
 $\begin{aligned} V^2 & =u^2+2 a s \\ 0 & =u^2-2 \text { as } \quad S=\frac{u^2}{2 a} \quad S \alpha u^2 \\ \Rightarrow \quad & \frac{S_1}{S_2}=\frac{u_1^2}{u_2^2}=\frac{u^2}{16 u^2}=\frac{1}{16}\end{aligned}$
 
-65. A car moving along a straight highway with speed of $126 \mathrm{Km} / \mathrm{h}$ is brought to a stop with in a distance of 200 $\mathrm{m}$. What is the retardation of the car
+65.  A car moving along a straight highway with speed of $126 \mathrm{Km} / \mathrm{h}$ is brought to a stop with in a distance of 200 $\mathrm{m}$. What is the retardation of the car
 (A) $3.06 \mathrm{~ms}^{-2}$
 (B) $4 \mathrm{~ms}^{-2}$
 (C) $5.06 \mathrm{~ms}^{-2}$
