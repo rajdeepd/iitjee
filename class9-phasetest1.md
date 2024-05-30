@@ -18,6 +18,15 @@ $$
 \end{aligned}
 $$
 
+Given,
+$$
+
+\mathrm{u}=\mathrm{0 m} / \mathrm{s} \\
+\mathrm{s}=16 \mathrm{~m} \\
+\mathrm{t}=4 \mathrm{sec}
+
+$$
+
 From 2nd equation of motion,
 $$
 \begin{aligned}
@@ -30,7 +39,7 @@ $$
 
 The correct option is B.
 
-63. A bus accelerates uniformly from rest and acquires a speed of $36 \mathrm{~km} / \mathrm{h}$ in $10 \mathrm{~s}$. The acceleration is
+1.  A bus accelerates uniformly from rest and acquires a speed of $36 \mathrm{~km} / \mathrm{h}$ in $10 \mathrm{~s}$. The acceleration is
 (A) $1 \mathrm{~m} / \mathrm{s}^2$
 (B) $2 \mathrm{~m} / \mathrm{s}^2$
 (C) $1 / 2 \mathrm{~m} / \mathrm{s}^2$
