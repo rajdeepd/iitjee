@@ -184,10 +184,13 @@ $$
 
 The correct option is $\mathrm{B}$.
 
-71.  From the top of the tower of height 400 m, a ball is dropped by a man, Simultaneously from the base of the
+71. From the top of the tower of height 400 m, a ball is dropped by a man, Simultaneously from the base of the
 tower, another ball is thrown up with velocity of 50 m/s. At what distance will they meet from the base of the
 tower?
-(A) 100 m (B) 320 m (C) 80 m (D) 240 m
+* (A) 100 m
+* (B) 320 m
+* (C) 80 m 
+* (D) 240 m
 
 
 Solution.
@@ -218,6 +221,7 @@ $$
 & t=\frac{400}{50}=8 \mathrm{sec}
 \end{aligned}
 $$
+
 $\therefore \mathrm{h}_1=320 \mathrm{~m}$ and $\mathrm{h}_2=80 \mathrm{~m}$
 Hence, balls will meet from the base of the tower at a height of $80 \mathrm{~m}$.
 
