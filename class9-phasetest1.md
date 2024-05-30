@@ -10,6 +10,7 @@ Physics
 Solution.
 
 Given,
+
 $$
 \begin{aligned}
 & \mathrm{u}=\mathrm{om} / \mathrm{s} \\
@@ -17,9 +18,8 @@ $$
 & \mathrm{t}=4 \mathrm{sec}
 \end{aligned}
 $$
-$$\mathrm{u}=\mathrm{om} / \mathrm{s}$$
-$$\mathrm{s}=16 \mathrm{~m} $$
-$$\mathrm{t}=4 \mathrm{ sec} $$
+
+
 
 From 2nd equation of motion,
 
@@ -35,6 +35,7 @@ $$
 The correct option is B.
 
 1.  A bus accelerates uniformly from rest and acquires a speed of $36 \mathrm{~km} / \mathrm{h}$ in $10 \mathrm{~s}$. The acceleration is
+2.  
 (A) $1 \mathrm{~m} / \mathrm{s}^2$
 (B) $2 \mathrm{~m} / \mathrm{s}^2$
 (C) $1 / 2 \mathrm{~m} / \mathrm{s}^2$
