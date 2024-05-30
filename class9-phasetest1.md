@@ -75,6 +75,7 @@ $$
 $$
 
 Newton's Equation of motion
+
 $$
 \begin{aligned}
 & v^2-u^2=2 a s \\
@@ -116,6 +117,7 @@ s=\frac{x_{g t^2}}{2}
 $$
 
 Now, time of descent, $T=\sqrt{\frac{2 S}{g}}$
+
 $$
 \begin{aligned}
 & T=\sqrt{\left(\frac{2}{g}\right) \times \frac{x_g}{2} t^2} \\
@@ -133,12 +135,14 @@ $$
 Solution: A
 
 When there is a free fall, we can directly use the equation of motion :
+
 $$
 \begin{aligned}
 & v^2=u^2+2 g h \\
 & \text { here } u=0
 \end{aligned}
 $$
+
 $$
 \text { so, } \mathrm{v}=\sqrt{2 \mathrm{gh}}=\sqrt{2 \times 10 \times 20}=20 \mathrm{~m} / \mathrm{s}
 $$
@@ -158,6 +162,7 @@ Solution: B - Zero
 
 Solution: 
 Given,
+
 $$
 \begin{aligned}
 & \theta=30^{\circ} \\
@@ -167,6 +172,7 @@ $$
 $$
 
 Time of flight in projectile motion,
+
 $$
 \begin{aligned}
 & \mathrm{T}=\frac{2 \mathrm{u} \sin \theta}{\mathrm{g}} \\
@@ -192,6 +198,7 @@ Formula Used: $\mathrm{s}=\mathrm{ut}+\frac{1}{2} \mathrm{gt}^2$
 Since both the balls start from rest therefore initial velocity is zero i.e. $\mathrm{u}=0$.
 Let, both balls meet at point $P$ after time $t$.
 The distance travelled by ball A,
+
 $$
 \mathrm{h}_1=\frac{1}{2} \mathrm{gt}^2 \ldots
 $$
@@ -204,6 +211,7 @@ $$
 Step 3: Find the value of $h_1$ and $h_2$.
 Since, $h_1+h_2=400 m$
 From equation (i) and (ii)
+
 $$
 \begin{aligned}
 & h_1+h_2=u t=400 \\
