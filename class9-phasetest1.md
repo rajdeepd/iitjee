@@ -17,15 +17,9 @@ $$
 & \mathrm{t}=4 \mathrm{sec}
 \end{aligned}
 $$
-
-Given,
-$$
-
-\mathrm{u}=\mathrm{0 m} / \mathrm{s} \\
-\mathrm{s}=16 \mathrm{~m} \\
-\mathrm{t}=4 \mathrm{sec}
-
-$$
+$$\mathrm{u}=\mathrm{om} / \mathrm{s}$$
+$$\mathrm{s}=16 \mathrm{~m} $$
+$$\mathrm{t}=4 \mathrm{ sec} $$
 
 From 2nd equation of motion,
 $$
