@@ -22,6 +22,7 @@ $$\mathrm{s}=16 \mathrm{~m} $$
 $$\mathrm{t}=4 \mathrm{ sec} $$
 
 From 2nd equation of motion,
+
 $$
 \begin{aligned}
 & s=u t+\frac{1}{2} a t^2 \\
