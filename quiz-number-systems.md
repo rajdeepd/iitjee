@@ -6,7 +6,7 @@
     * c) $\sqrt[3]{4}, \sqrt{3}, \sqrt[6]{12}$
     * d)none of these
 
-    Solution: b
+    Solution:
 
     $\sqrt{3}$ = 1.732 \
     $\sqrt[3]{4}$ = 1.58 \
@@ -52,24 +52,27 @@
     * c) $\sqrt{5}-\sqrt{2}$
     * d) none of these
 
-    Solution : c 
+    Solution : c
 
     It can be written as $\sqrt{5+2-2 \sqrt{5}*\sqrt{2}}= \sqrt{(5-2)^2}$ \
     Which is $\sqrt{5}-\sqrt{2}$
 
-5. $
-\sqrt{6+2 \sqrt{2}+2 \sqrt{3}+2 \sqrt{6}}=$
+5. 
+   
+$$
+\sqrt{6+2 \sqrt{2}+2 \sqrt{3}+2 \sqrt{6}}=
+$$
 
-    * a) $\sqrt{2}+1+\sqrt{3}$
-    * b) $\sqrt{2}+\sqrt{6}+\sqrt{3}$
-    * c) $\sqrt{2}+\sqrt{3}-1$
-    * d) none of these
+  * a) $\sqrt{2}+1+\sqrt{3}$
+  * b) $\sqrt{2}+\sqrt{6}+\sqrt{3}$
+  * c) $\sqrt{2}+\sqrt{3}-1$
+  * d) none of these
 
-    Solution.
+  Solution.
 
-    $\sqrt{1+(\sqrt{3})^2+(\sqrt{2})^2+2(\sqrt{3} \times 1+\sqrt{3}} = \sqrt{(\sqrt{3} \times 1+\sqrt{2})^2}$
+  $\sqrt{1+(\sqrt{3})^2+(\sqrt{2})^2+2(\sqrt{3} \times 1+\sqrt{3}} = \sqrt{(\sqrt{3} \times 1+\sqrt{2})^2}$
 
-    Hence answer is a
+  Hence answer is a
 
 6. Rationalizing factor of $\sqrt{108}$
    * a) $\sqrt{2}$
