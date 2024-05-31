@@ -146,7 +146,7 @@ $$
     Smallest possible number in each case
 
 
-    <img href="./quiz-11.png" width="50%"/>
+    <img src="quiz-11.png" width="40%"/>
 
 
     The smallest of four cases is $5 \times 3 \times 2^2$
