@@ -3,6 +3,7 @@ $$
 \begin{gathered}
 \text { QUIZ } \\
 \text { IX-CLASS }
+\text {Number System}
 \end{gathered}
 $$
 
@@ -236,3 +237,6 @@ $$
     * (B) $\frac{7}{8}$
     * (C) $\frac{40}{10}$
     * (D) $\frac{8}{9}$
+
+Solution. A \
+LCM of numerator/HCF of denominator = 8/3
