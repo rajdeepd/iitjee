@@ -135,12 +135,16 @@ $$
     Concept Used:
     $N=a^p \times b^q \times c^r$ Where $a, b$ and $c$ are prime factors of $N$.
     Number of factors of $N=(p+1) \times(q+1) \times(r+1)$
+    
     Calculation:
+
     12 can be written as $1 \times 12$ or $2 \times 6$ or $3 \times 4$ or $2 \times 2 \times 3$
     Underlying prime factorization can be of the form $\mathrm{a}^{\mathrm{p}} \Rightarrow \mathrm{a}^{11}$
     Underlying prime factorization can be of the form $a^p \times b^q \Rightarrow a^1 \times b^5$ or $a^2 \times b^3$
     Underlying prime factorization can be of the form $a^p \times b^q \times c^r \Rightarrow a \times b \times c^2$
+    
     Smallest possible number in each case
+
     $$
     \begin{aligned}
     & a^{11}=2^{11} \\
@@ -203,4 +207,10 @@ $$
     Solution. a
     The sum of all the factors of 36 can be calculated by adding 1, 2, 3, 4, 6, 9, 12, 18, 36 which is 1 + 2 + 3 + 4 + 6 + 9 + 12 + 18 + 36 = 91
 
-17.
+17. Units digit of $2^{50} \times 15^{35}$
+    * a) 5
+    * b) 2
+    * c) 1
+    * d) 0
+
+  Solution. d
