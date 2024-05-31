@@ -104,7 +104,10 @@ $$
     Solution: b
 
 8. $\frac{\sqrt{3}-1}{\sqrt{3}+1}=a+b \sqrt{3}, a+b=$
-
+    * a) 3
+    * b) 1
+    * c) 4
+    * d) 0
 
 9. If $|X|=5$, then $X=$ $\qquad$
     * a) 5
@@ -253,9 +256,60 @@ LCM of numerator/HCF of denominator = 8/3
     $x = 2 $
 
 22.. Value of $\frac{\left(x^{a+b}\right)^3 \cdot\left(x^{b+c}\right)^3 \cdot\left(x^{c+a}\right)^3}{\left(x^a \cdot x^b \cdot x^c\right)^6}$.
-    * a) $x^{a+b+c}$
-    * b) $x^{3(a+b+c)}$
-    * c) 0
-    * d) 1
+
+  * a) $x^{a+b+c}$
+  * b) $x^{3(a+b+c)}$
+  * c) 0
+  * d) 1 \
+  
   Solution. c
 
+23. The value of $\frac{(5)^{0.25} \times(125)^{0.25}}{(256)^{0.10} \times(256)^{0.15}}$ is
+    * a) $\frac{\sqrt{5}}{2}$
+    * b) $\frac{5}{4}$
+    * c) $\frac{25}{2}$
+    * d) $\frac{25}{16}$ \
+   Solution. b
+
+     $\frac{(5)^{0.25} \times(5)^{3 \times 0.25}}{(256)^{0.25}}$ \
+     $\frac{(5)^{4 \div 4} }{(16)^{0.5}}$ = $\frac{(5)^{1} }{(4)^{1}} = \frac{5}{4} $
+
+24. The value of $m$ for which $\left[\left\{\left(\frac{1}{7^2}\right)^{-2}\right\}^{-1 / 3}\right]^{1 / 4}=7^m$ is
+    * a) $\frac{1}{3}$
+    * b) $-\frac{1}{3}$
+    * c) $\frac{2}{3}$
+    * d) none
+
+    Solution. b
+
+$$
+\begin{aligned}
+& {\left[\left\{\left(\frac{1}{7^2}\right)^{-2}\right\}^{-\frac{1}{3}}\right]^{\frac{1}{4}}=7^m} \\
+& \Rightarrow\left[\left\{\left(7^{-2}\right)^{-2}\right\}^{-\frac{1}{3}}\right]^{\frac{1}{4}}=7^m \\
+& \Rightarrow\left[\left(7^4\right)^{-\frac{1}{3}}\right]^{\frac{1}{4}}=7^m\left[\text { Since, }\left(a^m\right)^n=a^{m n}\right] \\
+& \Rightarrow\left(7^{-\frac{4}{3}}\right)^{\frac{1}{4}}=7^m \\
+& \Rightarrow 7^{\left(-\frac{4}{3} \times \frac{1}{4}\right)}=7^m \\
+& \Rightarrow 7^{\frac{-1}{3}}=7^m
+\end{aligned}
+$$
+
+   Since, when the bases are equal across the equal sign then their exponents must be equal.
+$$
+\therefore \mathrm{m}=-\frac{1}{3}
+$$
+
+   Hence, Option b is correct.
+
+25. $\left(\frac{-5}{6}\right)^{3 / 4}$ when divided by $\left(\frac{-5}{6}\right)^{7 / 6}$ becomes $\left(\frac{-5}{6}\right)^{7-x}$. Find the value of $x$
+    
+    * a) $\frac{89}{12}$
+    * b) $\frac{76}{9}$
+    * c) $\frac{55}{4}$
+    * d) none
+
+
+   Solution. a
+
+$$
+\begin{aligned} & \frac{\left(-\frac{5}{6}\right)^{3 / 4}}{\left(-\frac{5}{6}\right) 7 / 6}=\left(-\frac{5}{6}\right)^{7-x} \\ & \Rightarrow\left(-\frac{5}{6}\right)^{\frac{3}{4}-\frac{7}{6}}=\left(-\frac{5}{6}\right)^{7-x} \ldots\left[\frac{x^m}{x^n}=x^{m-n}\right] \\ & \Rightarrow\left(-\frac{5}{6}\right)^{\frac{18-28}{24}}=\left(-\frac{5}{6}\right)^{7-x} \\ & \Rightarrow\left(-\frac{5}{6}\right)^{\frac{-5}{12}}=\left(-\frac{5}{6}\right)^{7-x} \\ & \Rightarrow \frac{-5}{12}=7-x \\ & \Rightarrow x=7+\frac{5}{12} \\ & \therefore x=\frac{89}{12}\end{aligned}
+$$
