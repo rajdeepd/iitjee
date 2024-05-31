@@ -252,4 +252,10 @@ LCM of numerator/HCF of denominator = 8/3
     $x + 1 = 3$ \
     $x = 2 $
 
-    
+22.. Value of $\frac{\left(x^{a+b}\right)^3 \cdot\left(x^{b+c}\right)^3 \cdot\left(x^{c+a}\right)^3}{\left(x^a \cdot x^b \cdot x^c\right)^6}$.
+    * a) $x^{a+b+c}$
+    * b) $x^{3(a+b+c)}$
+    * c) 0
+    * d) 1
+  Solution. c
+
