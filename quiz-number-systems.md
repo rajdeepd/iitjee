@@ -83,7 +83,7 @@ $$
     Solution.
 
     $\sqrt{108} = \sqrt{2 \cdot 2 \cdot 3^2 \cdot 3}= 2 \cdot 3 \sqrt{3} $ 
-    
+
     Hence $\sqrt{3}$ is the rationalizing factor.
 
 
@@ -95,6 +95,112 @@ $$
 
     Solution: b
 
-8. 
+8. $\frac{\sqrt{3}-1}{\sqrt{3}+1}=a+b \sqrt{3}, a+b=$
 
 
+9. If $|X|=5$, then $X=$ $\qquad$
+    * a) 5
+    * b) -5
+    * c) 0
+    * d) Both a and b
+
+    Solution. d
+
+10. Number of Factors of 120
+    * a) 12
+    * b) 16
+    * c) 10
+    * d) 15
+
+    Solution. 120 = 4x30 = 4 x 6 x 5 = $2^3 \times 3  \times 5$
+
+    120 is a composite number so it has more then two factors unlike a prime number which has only two factors i.e, 1 and the number itself.
+
+    But 120 can be expressed in terms of its prime factors as $120=2 \times 2 \times 2 \times 3 \times 5$
+
+    The above 5 prime factors it has other factors too The same can be calculated by:
+
+    Numbers of factors=Each prime factors highest power 1 multiplied by each of the other factors highest power +1 .
+    so, here highest power of 2,3 and is ' 3 '. '1' and '1' respectively.
+
+    Therefore, $120(3+1) \times(1+1) \times(1+1)=16$ factors.
+
+11. What is the least number which is having 12 factors
+    * a) 36
+    * b) 48
+    * c) 60
+    * d) 72
+
+    Solution. 
+    Concept Used:
+    $N=a^p \times b^q \times c^r$ Where $a, b$ and $c$ are prime factors of $N$.
+    Number of factors of $N=(p+1) \times(q+1) \times(r+1)$
+    Calculation:
+    12 can be written as $1 \times 12$ or $2 \times 6$ or $3 \times 4$ or $2 \times 2 \times 3$
+    Underlying prime factorization can be of the form $\mathrm{a}^{\mathrm{p}} \Rightarrow \mathrm{a}^{11}$
+    Underlying prime factorization can be of the form $a^p \times b^q \Rightarrow a^1 \times b^5$ or $a^2 \times b^3$
+    Underlying prime factorization can be of the form $a^p \times b^q \times c^r \Rightarrow a \times b \times c^2$
+    Smallest possible number in each case
+    $$
+    \begin{aligned}
+    & a^{11}=2^{11} \\
+    & a^1 \times b^5=3^1 \times 2^5 \\
+    & a^2 \times b^3=3^2 \times 2^5 \\
+    & a \times b \times c^2=5 \times 3 \times 2^2 \\
+    & \Rightarrow 60
+    \end{aligned}
+    $$
+
+    The smallest of four cases is $5 \times 3 \times 2^2$
+    $\therefore 60$ is the smallest number that has exactly 12 factors
+
+12. If $|x|+|y|=0$, then
+    * a) $x=0$
+    * b) $y=0$
+    * c) a or b
+    * d)a and b
+
+   Solution: d
+
+13. 
+
+$$
+\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{2}}}}}}=
+$$
+* a) $2^{\frac{1}{32}}$
+* b) $2^{\frac{1}{64}}$
+* c) $2^{\frac{1}{16}}$
+* d) $2^{\frac{1}{128}}$
+
+  Solution. b
+
+14. HCF ofA, $B$ and $C$ is where $A=2^5 \times 3^3 \times 5^7, B=3^2 \times 5^7 \times 7^5, C=3^3 \times 5^5 \times 7^7 \times 11^{11}$
+    * a) $3^2 \times 5^5$
+    * b) $3^2 \times 5^3 \times 7$
+    * c) $3^2 \times 5^3$
+    * d) $3^2 \times 5^3 \times 7^2$
+
+Solution : a
+
+15. 
+    
+$$
+\frac{a-2 \sqrt{a b}+b}{\sqrt{a}-\sqrt{b}}=
+$$
+   * a) 1
+   * b) $a-b$
+   * c) $a+b$
+   * d) 0
+
+   Solution. a
+
+16. The sum of factors of 36
+    * a) 91
+    * b) 45
+    * c) 60
+    * d) 90
+
+    Solution. a
+    The sum of all the factors of 36 can be calculated by adding 1, 2, 3, 4, 6, 9, 12, 18, 36 which is 1 + 2 + 3 + 4 + 6 + 9 + 12 + 18 + 36 = 91
+
+17.
