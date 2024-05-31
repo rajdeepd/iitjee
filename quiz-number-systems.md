@@ -82,7 +82,8 @@ $$
 
     Solution.
 
-    $\sqrt{108} = \sqrt{2 \cdot 2 \cdot 3^2 \cdot 3}= 2 \cdot 3 \sqrt{3} $ \
+    $\sqrt{108} = \sqrt{2 \cdot 2 \cdot 3^2 \cdot 3}= 2 \cdot 3 \sqrt{3} $ 
+    
     Hence $\sqrt{3}$ is the rationalizing factor.
 
 
