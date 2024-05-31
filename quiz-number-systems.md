@@ -1,5 +1,12 @@
 
+$$
+\begin{gathered}
+\text { QUIZ } \\
+\text { IX-CLASS }
+\end{gathered}
+$$
 
+NUMBER SYSTEM
 1. Ascending order of $\sqrt{3}, \sqrt[3]{4}, \sqrt[6]{12}$ is
     * a) $\sqrt{3}, \sqrt[3]{4}, \sqrt[6]{12}$
     * b) $\sqrt[6]{12}, \sqrt[3]{4}, \sqrt{3}$
@@ -178,7 +185,7 @@ $$
     * c) $3^2 \times 5^3$
     * d) $3^2 \times 5^3 \times 7^2$
 
-Solution : a
+   Solution : a
 
 15. 
     
@@ -207,4 +214,25 @@ $$
     * c) 1
     * d) 0
 
-  Solution. d
+   Solution. d
+
+18. Find the remainder when $2^{300}$ is divided by 8
+    * (A) 0
+    * (B) 1
+    * (C) 2
+    * (D) 3
+
+    Solution. A
+
+19. Which of the following number have odd number of factors
+    * a) 36
+    * b) 45
+    * c) 2018
+    * d) 105
+   Solution. d : 3,5,7
+
+20. LCM of $\frac{2}{3}, \frac{4}{15}, \frac{8}{3}$ is
+    * (A) $\frac{8}{3}$
+    * (B) $\frac{7}{8}$
+    * (C) $\frac{40}{10}$
+    * (D) $\frac{8}{9}$
