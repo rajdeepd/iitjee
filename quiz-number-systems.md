@@ -145,15 +145,8 @@ $$
     
     Smallest possible number in each case
 
-    $$
-    \begin{aligned}
-    & a^{11}=2^{11} \\
-    & a^1 \times b^5=3^1 \times 2^5 \\
-    & a^2 \times b^3=3^2 \times 2^5 \\
-    & a \times b \times c^2=5 \times 3 \times 2^2 \\
-    & \Rightarrow 60
-    \end{aligned}
-    $$
+    $\begin{aligned} & a^{11}=2^{11} \\ & a^1 \times b^5=3^1 \times 2^5 \\ & a^2 \times b^3=3^2 \times 2^5 \\ & a \times b \times c^2=5 \times 3 \times 2^2 \\ & \Rightarrow 60\end{aligned}$
+
 
     The smallest of four cases is $5 \times 3 \times 2^2$
     $\therefore 60$ is the smallest number that has exactly 12 factors
