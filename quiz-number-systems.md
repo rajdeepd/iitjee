@@ -154,7 +154,7 @@ $$
     Smallest possible number in each case
 
 
-    <img src="https://github.com/rajdeepd/iitjee/blob/main/quiz-11.png?raw=true" width="40%"/>
+    <img src="https://github.com/rajdeepd/iitjee/blob/main/quiz-11.png?raw=true" width="35%"/>
 
 
     The smallest of four cases is $5 \times 3 \times 2^2$
@@ -240,3 +240,16 @@ $$
 
 Solution. A \
 LCM of numerator/HCF of denominator = 8/3
+
+21. If $5^x+5^x+5^x+5^x+5^x=125$, then the value of $x$ is
+    * a) 0
+    * b) 1
+    * c) 2
+    * d) 3
+    Solution. c
+
+    $5 \times 5^x = 5^3$ \
+    $x + 1 = 3$ \
+    $x = 2 $
+
+    
