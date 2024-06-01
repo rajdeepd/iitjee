@@ -274,7 +274,7 @@ LCM of numerator/HCF of denominator = 8/3
      $\frac{(5)^{0.25} \times(5)^{3 \times 0.25}}{(256)^{0.25}}$ \
      $\frac{(5)^{4 \div 4} }{(16)^{0.5}}$ = $\frac{(5)^{1} }{(4)^{1}} = \frac{5}{4} $
 
-24. The value of $m$ for which $\left[\left\{\left(\frac{1}{7^2}\right)^{-2}\right\}^{-1 / 3}\right]^{1 / 4}=7^m$ is
+24. The value of $m$ for which $\left[\left\{\left(\frac{1}{7^2}\right)^{-2}\right\}^{-1 / 3}\right]^{1 / 4}=7^m$ 
     * a) $\frac{1}{3}$
     * b) $-\frac{1}{3}$
     * c) $\frac{2}{3}$
